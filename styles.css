@@ -55,8 +55,6 @@ body {
 }
 
 #equal {
-  /* background-color: rgb(85, 85, 255); */
-  color: white;
   border-radius: 0 0 20px 0;
   z-index: 1;
   transition: 0.5s ease-in-out;
